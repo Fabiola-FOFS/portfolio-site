@@ -1,0 +1,7 @@
+header .titulo {
+  font-size: 3em;
+  font-family: 'Playfair Display', serif;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
